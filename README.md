@@ -10,7 +10,9 @@
 
 - 📫 You can connect with me through **ziaulbinbashar@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1VNsrMJBCOZuHFIc_vxFi9ObuCVtYUOj-/view?usp=sharing"> check out my Resume </a>
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1VNsrMJBCOZuHFIc_vxFi9ObuCVtYUOj-/view?usp=sharing"> Resume </a>
+
+- 💡 Check out my project  <a href="https://drive.google.com/file/d/1VNsrMJBCOZuHFIc_vxFi9ObuCVtYUOj-/view?usp=sharing"> Portfolio </a>
 
 </br>
 <h3 align="left">Connect with me:</h3>
