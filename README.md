@@ -1,95 +1,194 @@
 
-<section>
+# Hi, I'm Syed Ziaul Bin Bashar 👋
 
-# <div align="center">Hello 👋, I am Syed Ziaul Bin Bashar! </div>
-<h3 align="center">A passionate Researcher from Bangladesh </h3>
+### Ph.D. Researcher in Computer Science | Cyber-Physical Security | Machine Learning | LLM-Driven Manufacturing 
 
-- 🔭 I’m currently working at **Unilever Bangladesh**
+I am a **Ph.D. student in Computer Science at University of Texas at Dallas (UTD)** and a **Graduate Research Assistant** under the supervision of **Dr. Satyajayant Misra**.
 
-- 🌱 I’m have passion for **Machine Learning, Predictive Analysis and Coding Theories**
+My research focuses on building **intelligent, secure, and trustworthy additive manufacturing systems**, with particular interests in **LLM-assisted manufacturing, cyber-physical security, intellectual property protection, real-time quality monitoring, and machine learning for manufacturing automation**.
 
-- 📫 You can connect with me through **ziaulbinbashar@gmail.com**
+Before beginning my Ph.D., I worked in **supply-chain analytics at Unilever Bangladesh Limited**, where I applied machine learning and data-driven methods to inventory forecasting and product-allocation problems.
 
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1VNsrMJBCOZuHFIc_vxFi9ObuCVtYUOj-/view?usp=sharing"> Resume </a>
+---
 
-- 💡 Check out my project  <a href="https://drive.google.com/file/d/1VNsrMJBCOZuHFIc_vxFi9ObuCVtYUOj-/view?usp=sharing"> Portfolio </a>
+## 🔬 Research Interests
 
-</br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/syed-ziaul-bin-bashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-ziaul-bin-bashar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ziaulbinbashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ziaulbinbashar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ziaulbinbashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ziaulbinbashar" height="30" width="40" /></a>
+* **Cyber-Physical Systems**
+* **LLM-Driven Manufacturing Automation**
+* **Intellectual Property Protection in Digital Manufacturing**
+* **Additive Manufacturing Security**
+* **Real-Time In-Situ Quality Monitoring**
+* **Machine Learning for Manufacturing**
+* **Manufacturing Digital Twins**
+* **Optimization & Intelligent Decision Support**
+
+---
+
+## 🚀 Current Research
+
+### 🤖 AutoSlice
+
+**A Fully Automatic LLM-driven Slicing Configuration Framework for Additive Manufacturing**
+
+A framework exploring how large language models can automate slicing configuration and manufacturing parameter selection.
+
+**Status:** Accepted for publication at the **54th North American Manufacturing Research Conference (NAMRC 54)**
+**Role:** First Author
+
+---
+
+### 🔐 Intellectual Property Protection in Distributed Additive Manufacturing
+
+**Surrogate STL Generation and G-code Reconstruction**
+
+Researching methods for protecting native design geometry when additive manufacturing is outsourced to external service providers.
+
+**Status:** Manuscript in preparation
+**Role:** First Author
+
+---
+
+### 🏭 Cyber-Physical Reference Model for Additive Manufacturing
+
+**SoK: A Cyber-Physical Reference Model and Attack Taxonomy for Additive Manufacturing**
+
+Developing a structured reference model for additive manufacturing systems and mapping cyber-physical attacks across the manufacturing workflow.
+
+**Status:** Manuscript in preparation
+**Role:** First Author
+
+---
+
+### 👁️ GG-Net
+
+**G-code Gated U-Net for Real-Time Layer-Wise In-Situ Quality Control**
+
+Exploring real-time, layer-level monitoring of additive manufacturing processes using segmentation and manufacturing-process information.
+
+**Status:** Manuscript in preparation
+**Role:** Third Author
+
+---
+
+## 📚 Publications & Research
+
+| Work                                                                                                                              | Venue / Status            | Role         |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------ |
+| **AutoSlice: A Fully Automatic LLM-driven Slicing Configuration Framework for Additive Manufacturing**                            | NAMRC 54 — Accepted       | First Author |
+| **Intellectual Property Protection in Distributed Additive Manufacturing via Surrogate STL Generation and G-code Reconstruction** | Manuscript in preparation | First Author |
+| **SoK: A Cyber-Physical Reference Model and Attack Taxonomy for Additive Manufacturing**                                          | Manuscript in preparation | First Author |
+| **G-code Gated U-Net (GG-Net) for Real-time Layer-wise In-situ Quality Control in Additive Manufacturing Processes**              | Manuscript in preparation | Third Author |
+| **Comparative Study of Object Detection Models for Safety in Autonomous Vehicles, Homes, and Roads Using IoT Devices**            | IEEE CSDE 2023            | Third Author |
+| **Exploring Attacks in the NFT Gaming Industry: A Study of Risks and Mitigation Strategies**                                      | Undergraduate Thesis      | —            |
+
+---
+
+## 💼 Experience
+
+### New Mexico State University
+
+**Graduate Research Assistant — UT Dallas**
+*Aug 2026 – Present*
+
+
+**Graduate Research Assistant — NSOL Lab**
+*Sep 2024 – Aug 2026*
+
+* Research on **LLM-driven additive manufacturing pipelines**
+* Real-time manufacturing **quality control**
+* **Top-layer segmentation**
+* Security and cyber-physical aspects of additive manufacturing
+
+### Unilever Bangladesh Limited
+
+**Data Analyst — Supply Chain Function**
+*Feb 2023 – Aug 2024*
+
+* Applied analytics and machine learning to supply-chain problems
+* Worked on **inventory forecasting**
+* Analyzed **Allobot**
+* Developed digital-twin-based workflows for daily product allocation
+* Recipient of the **Supply Chain Director's Award — H1 2023**
+
+### RedDot Digital IT — ROBI
+
+**Software Development Intern, Mobile Financial Services**
+*Oct 2022 – Jan 2023*
+
+* Developed RESTful APIs
+* Integrated **Spring Boot** applications with **PostgreSQL**
+
+### BRAC University
+
+**Student Tutor — Department of Mathematics and Natural Sciences**
+*Mar 2022 – Aug 2022*
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+
+`Python` `Java` `Julia` `C++` `JavaScript`
+
+### Development & Data
+
+`SQL` `Docker` `Git` `LaTeX` `Power BI` `PostgreSQL` `Spring Boot`
+
+### Manufacturing & Research Tools
+
+`PrusaSlicer` `OctoPrint` `AutoCAD` `Webots`
+
+### Development Tools
+
+`Selenium` `Postman` `pgAdmin`
+
+---
+
+## 🎓 Education
+
+**University of Texas at Dallas**
+Ph.D. in Computer Science
+*Aug 2026 – Present*
+
+**New Mexico State University**
+Ph.D. in Computer Science
+*Aug 2024 – Aug 2026*
+
+**BRAC University**
+B.Sc. in Computer Science & Engineering
+*Jan 2019 – Jan 2023*
+
+* CGPA: **3.46 / 4.00**
+* Named to the **VC's List for four semesters**
+
+---
+
+## 🌱 Beyond Research
+
+I enjoy contributing to technical and academic communities in addition to research.
+
+* **President**, Computer Science Graduate Student Organization — NMSU
+* **Judge**, High School Coding Event — 2026 New Mexico TSA State Conference
+* Participated in the **Unilever Heart-to-Heart Market**, helping raise funds to support **300 underprivileged families**
+
+---
+
+## 🤝 Let's Connect
+
+I am always interested in conversations and collaborations around:
+
+**• Cyber-Physical Security • LLMs • Machine Learning • Additive Manufacturing • Manufacturing Automation**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed%20Ziaul%20Bin%20Bashar-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/syed-ziaul-bin-bashar)
+[![Email](https://img.shields.io/badge/Email-ziaulbinbashar%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ziaulbinbashar@gmail.com)
+
+---
+
+<p align="center">
+  <i>Building intelligent and secure systems for the future of digital manufacturing.</i>
 </p>
 
-</br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=szbjehan&label=Profile%20views&color=0e75b6&style=flat" alt="szbjehan" /> </p>
-
-
-## <div align="center"> My Skill Set  </div>
-<table align="center"><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center"> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  
-
-
-</td><td valign="top" width="33%">
-
-
-
-### Languages  
-<div align="center">  
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a> <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a> <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-
-</div>
-
-</td></tr></table>  
-
-
-<h3 align="center">Tools:</h3>
-<p align="center"> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-  
-</p>
-
-</br>
-</br>
-
-</section>
-<div>
-
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=szbjehan&show_icons=true&locale=en&layout=compact" alt="szbjehan" /></p>
-
-</div>
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=szbjehan&show_icons=true&locale=en" alt="szbjehan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=szbjehan&" alt="szbjehan" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/szbjehan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="szbjehan" /></a></p><br><br>
